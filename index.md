@@ -1,1 +1,1 @@
-/folder/index.html
+[HomePage](./folder/index.html)
