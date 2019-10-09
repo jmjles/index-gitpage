@@ -1,1 +1,1 @@
-folder/index.html
+/folder/index.html
